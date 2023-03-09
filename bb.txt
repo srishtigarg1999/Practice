@@ -1,1 +1,2 @@
 This is second file.
+Git is really useful
